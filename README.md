@@ -52,5 +52,3 @@ index.html: A basic static web page with AWS S3-themed content.
 error.html: A custom error page (404) for handling missing files.
 🎉 Conclusion
 With these steps, you can easily host your static website on AWS S3, benefiting from its simplicity, speed, and cost-effectiveness. Have fun hosting your website!
-
-For more details and a complete walkthrough, please refer to the original article: Hosting a static website on AWS S3.
