@@ -1,4 +1,4 @@
-# S3 Static Websiye
+# S3 Static Website
 S3 Static Website
 🚀 Introduction
 If you need to host a static website inexpensively, AWS S3 offers an easy, fast, and cost-effective solution. With AWS S3, you only pay for the storage you use, and you can even get up to 5GB of storage free of charge for a year within the AWS Free Tier.
